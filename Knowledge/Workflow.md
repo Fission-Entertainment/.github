@@ -15,16 +15,16 @@ This document defines the workflow for different areas of creating a game to est
 - **Programming**: Developers would see the Trello list for what to do, and then they can assign themselves any task to do to start work on it. Developers would then develop the functionality of the game, adding parts of that task as commits. When the task is committed, they would push the commit, so long as there are no errors. Then they would move the task to the 'finished' section of the Trello.
 
 
-**Graphic Design**: Designers would generate art to be used for the game, if the game is 2D, designers may fully make all the design assets, if the game is 3D and designing resources are low, developers may consider using a mix of graphic assets from designers and from the asset store. After a design is made, it is reviewed by the HoD, if approved, it is added, otherwise, they are given feedback to improve the design first.
+- **Graphic Design**: Designers would generate art to be used for the game, if the game is 2D, designers may fully make all the design assets, if the game is 3D and designing resources are low, developers may consider using a mix of graphic assets from designers and from the asset store. After a design is made, it is reviewed by the HoD, if approved, it is added, otherwise, they are given feedback to improve the design first.
 
 
-**Sound**: Composers would generate sounds, which would then be reviewed by the Head of Design for quality. Once approved, composers may add the sound to the game, otherwise, they are given feedback to improve the music first.
+- **Sound**: Composers would generate sounds, which would then be reviewed by the Head of Design for quality. Once approved, composers may add the sound to the game, otherwise, they are given feedback to improve the music first.
 
 
-**Animations**: Animations are grabbed from [Mixamo](https://www.mixamo.com/#/) by developers for the time being.
+- **Animations**: Animations are grabbed from [Mixamo](https://www.mixamo.com/#/) by developers for the time being.
 
 
-**Updates**: Feedback is firstly gathered from the community and team within the Alpha-Suggestions channel in the main Discord server, suggestions that receive 80%+ of the votes are automatically added to the Trello for review by the game director, otherwise, moderators filter the idea by quality, accepted moderator suggestions are also added to the Trello for review by the game director.
+- **Updates**: Feedback is firstly gathered from the community and team within the Alpha-Suggestions channel in the main Discord server, suggestions that receive 80%+ of the votes are automatically added to the Trello for review by the game director, otherwise, moderators filter the idea by quality, accepted moderator suggestions are also added to the Trello for review by the game director.
 
 
 # Game Update Workflow
