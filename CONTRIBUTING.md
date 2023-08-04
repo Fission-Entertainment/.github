@@ -11,6 +11,6 @@ To ensure application stability and easier collaboration, we have guidelines, th
 7. Variables that may be used by other scripts should be public, other variables should be private. [why]() | [how]()
 8. Variables should be declared after imports, where variables that are similar will not be spaced. [why]() | [how]()
 9. Variables should be stored near the top of a file, where public variables are defined first then (after line spacing) private variables are defined. [why]() | [how]()
-10. Use FixedUpdate() classes for any physics calculation. [reason]()
+10. Use FixedUpdate() classes for any physics calculation. [why]() | [how]()
 
 Note: These guidelines are incomplete, please find and report anything you disagree with in this list in Discord with other developers. Espicially since this list is recent.
